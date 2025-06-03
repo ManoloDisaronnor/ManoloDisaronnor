@@ -1,5 +1,21 @@
 # 💫 Sobre mi:
-🔭 Actualmente realizando las practicas FCT en Soltel<br>🌱 Actualmente cursando el grado superior Desarrollo de Aplicaciones Multiplataforma
+Actualmente me encuentro finalizando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma, realizando las prácticas FCT en Soltel. A lo largo de mi formación y experiencia, he desarrollado un fuerte interés por el desarrollo de software, tanto en entornos móviles como web, combinando buenas prácticas de programación con el uso de herramientas modernas para crear soluciones funcionales y bien estructuradas.<br/><br/>
+
+Mi perfil se orienta al desarrollo fullstack, tanto frontend como backend, con experiencia en tecnologías modernas como React, Angular, Spring y Node.js, además de trabajar con bases de datos relacionales y no relacionales.<br/><br/>
+
+Tecnologías y herramientas con las que he trabajado:<br/>
+
+- Lenguajes: Java, Kotlin, Python, JavaScript, TypeScript, PHP
+
+- Frontend: HTML5, CSS3, React, React Native, Angular, Bootstrap, TailwindCSS, MUI, jQuery
+
+- Backend: Node.js, Express.js, Spring, JWT, Socket.io, Firebase
+
+- Bases de datos: MySQL, SQLite, MongoDB, Oracle
+
+- Herramientas y otros: Docker, Postman, Git, GitHub, NPM, Nodemon<br/><br/>
+
+Actualmente resido en Dos Hermanas (Sevilla) y estoy abierto a nuevas oportunidades en el ámbito del desarrollo de software.
 
 
 ## 🌐 Social:
